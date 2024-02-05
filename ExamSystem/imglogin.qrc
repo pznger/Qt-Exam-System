@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ikun.png</file>
+    </qresource>
+</RCC>
